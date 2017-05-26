@@ -1,6 +1,6 @@
 # [氷結のスケート靴]WhiteSkating
 ## 本家：denpa 様
-[[1.4.7]日本風モブMODv1.0](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2686&start=60)
+[[1.4.7]日本風モブMODv1.0](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2686&sid=3e879b1e26e2cabf927c6ba1c9579e67#p19179)
 
 [**ダウンロード**](https://github.com/eyeq/mod-1.11.2-WhiteSkating/releases/download/1.0/1.11.2-WhiteSkating-1.0.jar)
 
